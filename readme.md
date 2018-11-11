@@ -10,6 +10,8 @@ RuiJi Scraper Import is an extremely powerful importer that makes it easy to imp
 = 1.0 =
 * This is demo version.
 
+### How to use
+
 WordPress is a personal blogging system, and small business websites are being used by more and more users. The personal webmaster or corporate web editor will forward some wonderful content to his site in daily editing.
 
 Repeated copy and paste operations are often irritating. RuiJi Scraper noticed this, using RuiJi Scraper's import tool to easily import articles extracted by RuiJi Scraper into WordPress.
